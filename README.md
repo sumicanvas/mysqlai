@@ -34,12 +34,18 @@ cd ~/mysqlairpms/
 
 sudo mysql-ai-setup<img width="229" height="59" alt="image" src="https://github.com/user-attachments/assets/8a2af823-afc5-4003-90e4-915e61fbc20c" />
 ```
-<img width="730" height="514" alt="image" src="https://github.com/user-attachments/assets/71354682-1e89-4057-a125-b2c1201fc67b" />
+<img width="730" height="514" alt="image" src="https://github.com/user-attachments/assets/71354682-1e89-4057-a125-b2c1201fc67b" />  
 
   
-## 2.Mysql 관련 라이브러리 설치 전 GPG 키 설치 (mysql8.4에서는 반드시 필요함)
-sudo rpm --import https://repo.mysql.com/RPM-GPG-KEY-mysql-202
+<img width="1444" height="1030" alt="image" src="https://github.com/user-attachments/assets/de16d2c2-f945-4280-9393-e96f62dc6bed" />  
+
+  
+<img width="1458" height="1018" alt="image" src="https://github.com/user-attachments/assets/7bf33dfb-602d-44af-bec0-bc2b5ad128fc" />  
+
+<img width="1462" height="1032" alt="image" src="https://github.com/user-attachments/assets/a301800e-a5c7-401d-9ed9-1bfcc448c3fa" />  
 
 
-## 3.Mysql 관련 라이브러리 설치
-- MySQL 을 테스트할 것이기 때문에 이 부분이 필요
+
+
+## 
+
