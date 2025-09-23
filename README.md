@@ -89,9 +89,36 @@ The default here is - /var/lib/mysql-files
 ### 설치완료
   
 <img width="733" height="510" alt="image" src="https://github.com/user-attachments/assets/dfd8f3c0-982b-4b3d-a6a9-e9b68956f294" />  
+  
+```
+==============================================================================
+Installation finished.
+==============================================================================
+
+To access MySQL Studio, navigate to the following
+URL in a web browser:
+
+    https://mysqlaiVM:8080/
+
+To access a SQL shell for this MySQL AI instance, navigate to the following
+URL in a web browser:
+
+    https://mysqlaiVM:8000/
+
+The MySQL REST Service endpoint is:
+
+    https://mysqlaiVM:8443/
+```
 
 
+  
+
+###   
+  
+<img width="992" height="286" alt="image" src="https://github.com/user-attachments/assets/28cc5fba-c75f-4cc2-8a01-8e459de3bcdb" />
 
 
-## 
-
+    
+### The AI service is on 40008 – again name will change going forward   
+  
+<img width="901" height="39" alt="image" src="https://github.com/user-attachments/assets/7efd226f-ecdc-47b7-a028-d8c12e8b4d78" />
