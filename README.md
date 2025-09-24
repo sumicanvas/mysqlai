@@ -17,10 +17,12 @@ cd mysqlairpms
 
 curl --output mysqlairpms.tar "https://objectstorage.us-ashburn-1.oraclecloud.com/p/v4EB7Ep3mbrhAaBjgrN_qVYSKtosXzoO-dSDdtACP2Awbm1oj0CPAvP1FIP6Gjhs/n/idv7j37dc1rt/b/mysqlairpms/o/airpm.tarmysql-ai-9.4.1-1.2.el8.x86_64.rpm-bundlesept.tar"
 
-tar xvf mysqlairpms.tarcd ~ 
+tar xvf mysqlairpms.tar
+  
+cd ~ 
 
-curl  --output certs.tar "https://objectstorage.us-ashburn-1.oraclecloud.com/p/V9jHtM8o9eAvx-D2-cyN6qXh5rvGaIFgZbFUxgO5mrA49NMEAy7sF0RMIPDkDjpn/n/idv7j37dc1rt/b/mysqlairpms/o/certsforaiworkingcerts.tar"
-
+curl  --output certs.tar "https://objectstorage.us-ashburn-1.oraclecloud.com/p/V9jHtM8o9eAvx-D2-cyN6qXh5rvGaIFgZbFUxgO5mrA49NMEAy7sF0RMIPDkDjpn/n/idv7j37dc1rt/b/mysqlairpms/o/certsforaiworkingcerts.tar"  
+  
 tar xvf certs.tar
 ```
 
