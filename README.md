@@ -63,17 +63,17 @@ sudo mysql-ai-setup
 The default here is - /var/lib/mysql-files  
 
   
-<img width="1458" height="1018" alt="image" src="https://github.com/user-attachments/assets/d9e8023b-0aa7-432c-85e6-3a4b90469328" />  
+<img width="730" height="514" alt="image" src="https://github.com/user-attachments/assets/d9e8023b-0aa7-432c-85e6-3a4b90469328" />  
 
 
   
 ### Take default self signed  
 
-  <img width="1468" height="1032" alt="image" src="https://github.com/user-attachments/assets/75a75112-0352-4215-879a-322200458436" />
+  <img width="730" height="514" alt="image" src="https://github.com/user-attachments/assets/75a75112-0352-4215-879a-322200458436" />
 
 
   
-  <img width="730" height="507" alt="image" src="https://github.com/user-attachments/assets/3880e27d-c5d1-4549-a356-e3896c981eac" />
+  <img width="730" height="514" alt="image" src="https://github.com/user-attachments/assets/3880e27d-c5d1-4549-a356-e3896c981eac" />
 
 
     
@@ -82,7 +82,7 @@ The default here is - /var/lib/mysql-files
   
  
 ### This could take around 15-20 minutes  
-<img width="1478" height="1030" alt="image" src="https://github.com/user-attachments/assets/01d47b4f-4f92-49f4-a638-3ee441568fb0" />
+<img width="730" height="514"alt="image" src="https://github.com/user-attachments/assets/01d47b4f-4f92-49f4-a638-3ee441568fb0" />
 
   
 
