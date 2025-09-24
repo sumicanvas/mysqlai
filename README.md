@@ -82,7 +82,7 @@ The default here is - /var/lib/mysql-files
   
  
 ### This could take around 15-20 minutes  
-<img width="730" height="514"alt="image" src="https://github.com/user-attachments/assets/01d47b4f-4f92-49f4-a638-3ee441568fb0" />
+<img width="730" height="514" alt="image" src="https://github.com/user-attachments/assets/01d47b4f-4f92-49f4-a638-3ee441568fb0" />
 
   
 
