@@ -128,20 +128,20 @@ The MySQL REST Service endpoint is:
 ### Once you finished the installation, here is mysql studio   
 
   
-<img width="1071" height="570" alt="image" src="https://github.com/user-attachments/assets/10146645-fc43-414d-93a3-561c2a4136db" />  
+<img width="730" height="514"  alt="image" src="https://github.com/user-attachments/assets/10146645-fc43-414d-93a3-561c2a4136db" />  
 
 
-<img width="1324" height="585" alt="image" src="https://github.com/user-attachments/assets/f8ec8bca-c1fc-4a5a-aa19-9afa5c57366b" />  
+<img width="730" height="514"  alt="image" src="https://github.com/user-attachments/assets/f8ec8bca-c1fc-4a5a-aa19-9afa5c57366b" />  
 
   
 ### mysql shell gui  
   
 #### Login with ID/PWD
-<img width="1914" height="1262" alt="image" src="https://github.com/user-attachments/assets/76d53b18-6a9a-4691-bcf8-308f37588473" />  
+<img width="730" height="514"  alt="image" src="https://github.com/user-attachments/assets/76d53b18-6a9a-4691-bcf8-308f37588473" />  
 
 
 
 ####   
   
-<img width="1197" height="510" alt="image" src="https://github.com/user-attachments/assets/2ae5804e-cd97-4b58-b8d3-68c2f9a6dbd6" />
+<img width="730" height="514"  alt="image" src="https://github.com/user-attachments/assets/2ae5804e-cd97-4b58-b8d3-68c2f9a6dbd6" />
 
